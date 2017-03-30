@@ -10,4 +10,5 @@ See `complete` branch for an example.
 green eggs and ham?
 I do not like them, Sam-I-am.
 I do not like
-green eggs and ham.>
+green eggs and ham.
+-Dr. Suess (1960)
